@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/QMsg/backend/app/core/kyber/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

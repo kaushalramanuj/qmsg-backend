@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\QMsg\backend\app\core\kyber\build\CMakeFiles\b80214806c69be40549e8b15220fccd9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BCDFA278-AFA1-3987-A750-34E9F55FE84C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

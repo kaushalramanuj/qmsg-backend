@@ -1,0 +1,3 @@
+C:/QMsg/backend/app/core/kyber/build/CMakeFiles/kyber.dir
+C:/QMsg/backend/app/core/kyber/build/CMakeFiles/ALL_BUILD.dir
+C:/QMsg/backend/app/core/kyber/build/CMakeFiles/ZERO_CHECK.dir
