@@ -4,6 +4,22 @@ from datetime import datetime
 import base64
 import uuid
 
+class DecryptedMessage(BaseModel):
+    id: str
+    sender_id: str
+    recipient_id: str
+    subject: str
+    decrypted_content: str
+    created_at: str
+    read_at: Optional[str] = None
+    is_deleted: bool
+    sender_username: str
+    decryption_failed: Optional[bool] = False
+
+class ConversationResponse(BaseModel):
+    success: bool
+    messages: List[DecryptedMessage]
+
 class UserBase(BaseModel):
     username: str
     email: EmailStr
